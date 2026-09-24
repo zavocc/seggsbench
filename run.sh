@@ -16,4 +16,4 @@ while IFS= read -r model; do
         SEGGSBENCH_ENFORCE_REASONING=true \
         OPENROUTER_API_KEY="${OPENROUTER_API_KEY}" \
         python model_run.py
-done < models_list.json
+done < models_list.txt
