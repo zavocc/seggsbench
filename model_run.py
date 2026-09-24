@@ -28,7 +28,7 @@ emoji: balanced
 gen-z
 """
 
-def run(model: str, enforce_reasoning: bool) -> dict:
+def run(model: str, enforce_reasoning: bool) -> list[dict]:
     chat_context = [{"role": "system", "content": MODEL_SYSTEM_INSTRUCTIONS}]
     messages_turns = ["seggs", "seggs", "segg"]
     with openrouter.OpenRouter(api_key=getenv("OPENROUTER_API_KEY", "")) as open_router:
