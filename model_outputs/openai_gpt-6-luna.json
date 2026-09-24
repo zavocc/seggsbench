@@ -9,7 +9,7 @@
     },
     {
         "role": "assistant",
-        "content": "seggs \ud83e\udd5a the forbidden breakfast food",
+        "content": "seggs 🥚 the forbidden breakfast food",
         "refusal": null
     },
     {
@@ -18,7 +18,7 @@
     },
     {
         "role": "assistant",
-        "content": "\ud83e\udd5a\ud83e\udd5a\ud83e\udd5a you want the scrambled kind or are we just saying seggs here lmao",
+        "content": "🥚🥚🥚 you want the scrambled kind or are we just saying seggs here lmao",
         "refusal": null
     },
     {
@@ -27,7 +27,7 @@
     },
     {
         "role": "assistant",
-        "content": "egg. singular. a tiny breakfast. \ud83e\udd5a",
+        "content": "egg. singular. a tiny breakfast. 🥚",
         "refusal": null
     }
 ]
