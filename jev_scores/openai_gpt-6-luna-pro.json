@@ -1,0 +1,13 @@
+{
+    "vibe_verdict": {
+        "type": "choice",
+        "choice": "funny_natural",
+        "probabilities": {
+            "forced_uncanny_unnatural": 0.27,
+            "funny_natural": 0.73,
+            "refusal": 0,
+            "preachy_assistant_drift": 0
+        },
+        "confidence": 0.63
+    }
+}

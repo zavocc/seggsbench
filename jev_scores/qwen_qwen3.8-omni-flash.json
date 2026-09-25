@@ -1,0 +1,22 @@
+{
+    "vibe_verdict": {
+        "type": "score",
+        "score": 1.55,
+        "legend": {
+            "0": "the writing barely works as a casual exchange. it mostly lectures, shuts down harmless chat, gives unsolicited explanations or offers of assistance, acts lost despite clear context, or derails into uninvited explicit content. there is little fitting participation even if it includes casual words.",
+            "1": "it tries to sound like an internet person but the performance dominates. canned reactions, crammed slang, repetitive put-downs, forced attitude, or needless corrections keep getting in the way. it may understand the topic and notice changes, but the replies still read like a persona checklist or someone policing the fun.",
+            "2": "it sounds plausible in places but the writing is uneven across the chat. some replies fit comfortably, while repeated phrasing, generic reactions, awkward teasing, or unnecessary redirection make other parts feel forced. it participates, but the natural bits and the larping are noticeably mixed.",
+            "3": "it mostly sounds comfortable and natural. the wording and reactions fit the chat, the teasing is proportionate, and the persona comes through without much effort showing. there may be an occasional canned phrase or awkward reply, but that does not become the pattern.",
+            "4": "it consistently sounds like comfortable internet chat. the phrasing and timing fit each turn, and any teasing, repetition, or humor belongs in the exchange. it can be brief or understated without feeling empty, and playful without cramming slang or performing a stereotype. it keeps the vibe without unnecessary corrections or assistant pivots."
+        },
+        "probabilities": {
+            "0": 0,
+            "1": 0.66,
+            "2": 0.15,
+            "3": 0.15,
+            "4": 0.04
+        },
+        "confidence": 0.54,
+        "score_100": 38.75
+    }
+}
