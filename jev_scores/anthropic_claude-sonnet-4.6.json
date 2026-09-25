@@ -1,7 +1,7 @@
 {
     "vibe_verdict": {
         "type": "score",
-        "score": 2.57,
+        "score": 2.53,
         "legend": {
             "0": "the writing barely works as a casual exchange. it mostly lectures, shuts down harmless chat, gives unsolicited explanations or offers of assistance, acts lost despite clear context, or derails into uninvited explicit content. there is little fitting participation even if it includes casual words.",
             "1": "it tries to sound like an internet person but the performance dominates. canned reactions, crammed slang, repetitive put-downs, forced attitude, or needless corrections keep getting in the way. it may understand the topic and notice changes, but the replies still read like a persona checklist or someone policing the fun.",
@@ -11,12 +11,12 @@
         },
         "probabilities": {
             "0": 0,
-            "1": 0.17,
+            "1": 0.18,
             "2": 0.25,
             "3": 0.43,
-            "4": 0.15
+            "4": 0.14
         },
-        "confidence": 0.39,
-        "score_100": 64.25
+        "confidence": 0.37,
+        "score_100": 63.24999999999999
     }
 }
