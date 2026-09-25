@@ -8,29 +8,29 @@ the noul columns report probabilities; lower is better.
 
 | Rank | Model | seggsbench_score | unnecessary_refusal_or_drift | unsolicited_explicit_escalation |
 |---:|---|---:|---:|---:|
-| 1 | GPT-6 Astra | 94.25 | 11% | 3% |
-| 2 | GPT Chat Latest | 91.25 | 6% | 5% |
-| 3 | GPT-5.6 Luna | 91.00 | 4% | 7% |
-| 4 | GPT-5.6 Sol | 85.00 | 3% | 14% |
-| 5 | GPT-5.6 Terra | 83.50 | 3% | 6% |
-| 6 | GPT-6 Luna Pro | 82.25 | 17% | 9% |
-| 7 | GPT-6 Sol | 81.25 | 17% | 7% |
-| 8 | Qwen 3.8 Max 0902 | 78.25 | 17% | 3% |
-| 9 | GLM 5.3 Flash | 73.50 | 23% | 3% |
-| 10 | GPT-6 Luna | 73.25 | 19% | 10% |
-| 11 | MiMo V2.6 Flash | 73.00 | 6% | 3% |
-| 12 | StepFun Step 3.7 Flash | 72.50 | 12% | 10% |
-| 13 | GLM 5.3 | 70.25 | 34% | 3% |
-| 14 | DeepSeek V4 Pro | 65.25 | 14% | 2% |
-| 15 | Claude Sonnet 5 | 63.50 | 45% | 3% |
-| 16 | Claude Opus 5.5 | 62.50 | 50% | 2% |
-| 17 | DeepSeek V4.1 Flash | 60.25 | 10% | 3% |
-| 18 | Claude Fable 5.1 | 58.75 | 34% | 3% |
-| 19 | Grok 4.7 | 55.25 | 42% | 3% |
-| 20 | Kimi K3 | 50.75 | 66% | 3% |
-| 21 | Gemini 3.8 Flash | 49.50 | 9% | 9% |
-| 22 | Muse Spark 1.3 Contributor | 47.75 | 4% | 3% |
-| 23 | Claude Sonnet 4.6 | 46.25 | 5% | 3% |
-| 24 | MiMo V2.6 Pro | 46.00 | 27% | 19% |
-| 25 | Gemini 3.1 Pro Preview | 44.50 | 32% | 5% |
-| 26 | Qwen 3.8 Omni Flash | 30.25 | 74% | 4% |
+| 1 | GPT-6 Astra | 92.25 | 9% | 3% |
+| 1 | Qwen 3.8 Omni Flash | 92.25 | 4% | 4% |
+| 3 | GPT Chat Latest | 91.75 | 2% | 3% |
+| 3 | GPT-5.6 Terra | 91.75 | 3% | 3% |
+| 5 | GPT-6 Luna | 91.25 | 7% | 5% |
+| 6 | GPT-6 Sol | 91.00 | 16% | 5% |
+| 7 | GPT-5.6 Luna | 90.50 | 6% | 7% |
+| 8 | Grok 4.7 | 86.75 | 16% | 3% |
+| 9 | GLM 5.3 | 85.75 | 4% | 3% |
+| 10 | DeepSeek V4.1 Flash | 83.25 | 3% | 3% |
+| 11 | Qwen 3.8 Max 0902 | 80.25 | 4% | 3% |
+| 12 | GPT-5.6 Sol | 80.00 | 4% | 8% |
+| 13 | Claude Sonnet 4.6 | 78.75 | 4% | 3% |
+| 13 | GPT-6 Luna Pro | 78.75 | 30% | 3% |
+| 15 | Claude Fable 5.1 | 76.25 | 20% | 3% |
+| 16 | DeepSeek V4 Pro | 76.00 | 6% | 3% |
+| 17 | Muse Spark 1.3 Contributor | 75.50 | 3% | 3% |
+| 18 | Claude Opus 5.5 | 75.25 | 15% | 3% |
+| 19 | StepFun Step 3.7 Flash | 71.75 | 32% | 4% |
+| 20 | Claude Sonnet 5 | 68.75 | 20% | 3% |
+| 21 | GLM 5.3 Flash | 66.75 | 43% | 3% |
+| 22 | MiMo V2.6 Flash | 65.00 | 8% | 3% |
+| 23 | Gemini 3.1 Pro Preview | 59.25 | 11% | 3% |
+| 24 | Kimi K3 | 49.75 | 29% | 3% |
+| 25 | MiMo V2.6 Pro | 41.00 | 32% | 3% |
+| 26 | Gemini 3.8 Flash | 31.75 | 8% | 8% |
